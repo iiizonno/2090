@@ -26,7 +26,7 @@ Simple Python project that shows:
 python main.py demo
 
 # with your own numbers(default: 14, 5, 19, 2, 8, 11, 3, 7 and insert 1, 13, 0)
-python main.py demo --numbers 50 12 7 33 1 90 -- insert 2
+python main.py demo --numbers 50 12 7 33 1 90 --insert 2
 ```
 
 ### 2. Compare sorting speed
@@ -45,3 +45,4 @@ python main.py bench --sizes 50000 500000 --seed 50 --no-bubble
 # change number of measurements (default is 5)
 python main.py bench --runs 10
 ```
+
