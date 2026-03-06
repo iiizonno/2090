@@ -8,3 +8,4 @@ def bubble_sort(arr: list[int]) -> None:
                 flag = True
         if not flag:
             break
+            
